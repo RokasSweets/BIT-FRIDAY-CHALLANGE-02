@@ -1,0 +1,40 @@
+.partners-box {
+    background-color: var(--first-color);
+    text-align: center;
+}
+
+.partners-box h3 {
+    color: var(--second-color);
+    letter-spacing: 5px;
+}
+
+.partners-box h1 {
+    font-family: var(--secondary-font);
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.partners-box p {
+    margin-top: 20px;
+}
+
+.partners-box img {
+    width: auto;
+    margin-top: 20px;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.partners-box a {
+    padding: 10px 20px;
+    color: var(--first-color);
+    background-color: black;
+    border-radius: 5px;
+    font-weight: 300;
+}
+
+@media (max-width: 768px) {
+    .partners-box h1 {
+        font-size: 24px;
+    }
+}
