@@ -6,6 +6,7 @@
 .partners-box h3 {
     color: var(--second-color);
     letter-spacing: 5px;
+    font-size: 16px;
 }
 
 .partners-box h1 {
@@ -16,6 +17,8 @@
 
 .partners-box p {
     margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
 }
 
 .partners-box img {
